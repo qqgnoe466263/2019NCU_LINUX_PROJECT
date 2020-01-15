@@ -3,7 +3,7 @@
 
 ## Preface 
 
-由於編譯裝載kernel時間很長，最好是用***qemu+busybox***來當測試工具，可以減少不少時間。在我自己的電腦上測試***vmware***是無法讓我換kernel的(?原因我也不太清楚，所以建議是用***VirtualBox***
+由於編譯裝載kernel時間很長，最好是用***qemu+busybox***來當測試工具，可以減少不少時間。另外在我自己的電腦上測試***vmware***是無法讓我換kernel的(?原因我也不太清楚，所以建議是用***VirtualBox***
 
 ## Enviroment
 
