@@ -36,13 +36,13 @@ sudo update-grub
 
 ### result_1.txt
 
-[result1.txt](https://drive.google.com/open?id=1Jv6q74uzN1wNzZydBggwdqwJnJeG9zla)
+[result1.txt](https://github.com/qqgnoe466263/2019NCU_LINUX_PROJECT/blob/master/project1/result/result_1.txt)
 
 ### result_2.txt
-[result2.txt](https://drive.google.com/open?id=1FzKNm1Tj90Y1k5_XPoka_822JNTmFFbB)
+[result2.txt](https://github.com/qqgnoe466263/2019NCU_LINUX_PROJECT/blob/master/project1/result/result_2.txt)
 
 ### result_3.txt
-[result3.txt](https://drive.google.com/open?id=17REvQHIV36HuD85j0bALs0mNMgjVSUDM)
+[result3.txt](https://github.com/qqgnoe466263/2019NCU_LINUX_PROJECT/blob/master/project1/result/result_3.txt)
 
 ### 第四題、第五題
 ```
