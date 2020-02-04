@@ -21,4 +21,4 @@ gcc version : 4.9
 
 ## Ref
 
-* [qemu+busybox](https://hackmd.io/zMQsJRq8TKeVsgjseS60UQ)
+* [qemu+busybox](https://hackmd.io/kVPiEwm8RdGRqT6qGMwrNA)
